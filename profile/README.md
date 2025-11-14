@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/synTKN/.github/main/syntkn-text-logo.svg" height="360px" alt="Syn Token Protocol logo"/>
   </a>
   
-  <h3>synTKN Protocol: </h3>
+  <h1>synTKN Protocol: </h1>
   <p>A new type of DeFi yield - synAssets</p>
   <p>
     synthetic assets | rehypothication | harmonic resonance arbitrage | protocol owned liquidity | liquid (re)staking | protocol value capture
